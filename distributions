@@ -137,7 +137,7 @@ SignWith: DFB0B268
 Origin: xivo.fr
 Label: xivo-dev
 Suite: xivo-dev
-Codename: xivo-five
+Codename: xivo-dev
 Architectures: i386 source
 Components: main
 Update: xivo-dev
