@@ -26,20 +26,6 @@ Allow: squeeze-dev
 Default: squeeze-dev
 Cleanup: on_deny on_error
 
-Name: wheezy
-IncomingDir: incoming/wheezy
-TempDir: /tmp
-Allow: wheezy
-Default: wheezy
-Cleanup: on_deny on_error
-
-Name: wheezy-xivo-skaro-dev
-IncomingDir: incoming/wheezy-xivo-skaro-dev
-TempDir: /tmp
-Allow: wheezy-xivo-skaro-dev
-Default: wheezy-xivo-skaro-dev
-Cleanup: on_deny on_error
-
 Name: squeeze-xivo-skaro
 IncomingDir: incoming/squeeze-xivo-skaro
 TempDir: /tmp
@@ -66,4 +52,11 @@ IncomingDir: incoming/asterisk-rc
 TempDir: /tmp
 Allow: asterisk-rc
 Default: asterisk-rc
+Cleanup: on_deny on_error
+
+Name: xivo-dev
+IncomingDir: incoming/xivo-dev
+TempDir: /tmp
+Allow: xivo-dev
+Default: xivo-dev
 Cleanup: on_deny on_error

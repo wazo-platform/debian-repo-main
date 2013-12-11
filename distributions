@@ -102,29 +102,6 @@ Contents: .gz
 SignWith: DFB0B268
 
 Origin: xivo.fr
-Label: wheezy
-Suite: wheezy
-Codename: wheezy
-Architectures: i386 amd64 armhf source
-Components: main contrib non-free
-Description: Archive wheezy
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: xivo.fr
-Label: wheezy-xivo-skaro-dev
-Suite: wheezy-xivo-skaro-dev
-Codename: wheezy-xivo-skaro-dev
-Architectures: i386 amd64 armhf source
-Components: main contrib non-free
-Update: wheezy-xivo-skaro-farm-dev
-Description: Archive wheezy-xivo-skaro-dev
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: xivo.fr
 Label: asterisk-rc
 Suite: asterisk-rc
 Codename: asterisk-rc
@@ -142,6 +119,40 @@ Codename: asterisk-old
 Architectures: i386 source
 Components: main
 Description: Archive Asterisk old stable
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: xivo-five
+Suite: xivo-five
+Codename: xivo-five
+Architectures: i386 source
+Components: main
+Description: Official XiVO Repository
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: xivo-dev
+Suite: xivo-dev
+Codename: xivo-five
+Architectures: i386 source
+Components: main
+Update: xivo-dev
+Description: Dev XiVO Repository
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: xivo-rc
+Suite: xivo-rc
+Codename: xivo-rc
+Architectures: i386 source
+Components: main
+Description: Release Candidate XiVO Repository
 Uploaders: uploaders
 Contents: .gz
 SignWith: DFB0B268

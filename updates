@@ -6,7 +6,7 @@ Architectures: i386 amd64 source
 #VerifyRelease: 2D0C2DE0DFB0B268
 VerifyRelease: blindtrust
 
-Name: wheezy-xivo-skaro-farm-dev
+Name: xivo-dev
 Method: http://wheezy-farm.xivo.fr/packaging-farm/skaro/gnulinux/debian
 Suite: skaro-wheezy
 Components: main
