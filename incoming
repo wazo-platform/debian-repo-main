@@ -1,0 +1,69 @@
+Name: lenny-xivo-gallifrey
+IncomingDir: incoming/lenny-xivo-gallifrey
+TempDir: /tmp
+Allow: lenny-xivo-gallifrey
+Default: lenny-xivo-gallifrey
+Cleanup: on_deny on_error
+
+Name: lenny
+IncomingDir: incoming/lenny
+TempDir: /tmp
+Allow: lenny
+Default: lenny
+Cleanup: on_deny on_error
+
+Name: squeeze
+IncomingDir: incoming/squeeze
+TempDir: /tmp
+Allow: squeeze
+Default: squeeze
+Cleanup: on_deny on_error
+
+Name: squeeze-dev
+IncomingDir: incoming/squeeze-dev
+TempDir: /tmp
+Allow: squeeze-dev
+Default: squeeze-dev
+Cleanup: on_deny on_error
+
+Name: wheezy
+IncomingDir: incoming/wheezy
+TempDir: /tmp
+Allow: wheezy
+Default: wheezy
+Cleanup: on_deny on_error
+
+Name: wheezy-xivo-skaro-dev
+IncomingDir: incoming/wheezy-xivo-skaro-dev
+TempDir: /tmp
+Allow: wheezy-xivo-skaro-dev
+Default: wheezy-xivo-skaro-dev
+Cleanup: on_deny on_error
+
+Name: squeeze-xivo-skaro
+IncomingDir: incoming/squeeze-xivo-skaro
+TempDir: /tmp
+Allow: squeeze-xivo-skaro
+Default: squeeze-xivo-skaro
+Cleanup: on_deny on_error
+
+Name: squeeze-xivo-skaro-rc
+IncomingDir: incoming/squeeze-xivo-skaro-rc
+TempDir: /tmp
+Allow: squeeze-xivo-skaro-rc
+Default: squeeze-xivo-skaro-rc
+Cleanup: on_deny on_error
+
+Name: squeeze-xivo-skaro-dev
+IncomingDir: incoming/squeeze-xivo-skaro-dev
+TempDir: /tmp
+Allow: squeeze-xivo-skaro-dev
+Default: squeeze-xivo-skaro-dev
+Cleanup: on_deny on_error
+
+Name: asterisk-rc
+IncomingDir: incoming/asterisk-rc
+TempDir: /tmp
+Allow: asterisk-rc
+Default: asterisk-rc
+Cleanup: on_deny on_error

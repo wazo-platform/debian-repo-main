@@ -1,0 +1,147 @@
+Origin: proformatique.com
+Label: etch-xivo-dalek
+Suite: etch-xivo-dalek
+Codename: etch-xivo-dalek
+Architectures: i386 source
+Components: main contrib non-free
+Description: Archive etch-xivo-dalek
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: etch
+Suite: etch
+Codename: etch
+Architectures: i386 source
+Components: main contrib non-free
+Description: Archive etch
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: lenny-xivo-gallifrey
+Suite: lenny-xivo-gallifrey
+Codename: lenny-xivo-gallifrey
+Architectures: i386 source
+Components: main non-free
+#Update: lenny-xivo-gallifrey-rc
+Description: Archive lenny-xivo-gallifrey
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: lenny
+Suite: lenny
+Codename: lenny
+Architectures: i386 amd64 source
+Components: main contrib non-free
+Description: Archive lenny
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-dev
+Suite: squeeze-xivo-skaro-dev
+Codename: squeeze-xivo-skaro-dev
+Architectures: i386 source
+Components: main contrib non-free
+Update: squeeze-xivo-skaro-farm-dev
+Description: Archive squeeze-xivo-skaro-dev
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro-rc
+Suite: squeeze-xivo-skaro-rc
+Codename: squeeze-xivo-skaro-rc
+Architectures: i386 source
+Components: main contrib non-free
+Update: squeeze-xivo-skaro-dev
+Description: Archive squeeze-xivo-skaro-rc
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-xivo-skaro
+Suite: squeeze-xivo-skaro
+Codename: squeeze-xivo-skaro
+Architectures: i386 source
+Components: main contrib non-free
+#Update: squeeze-xivo-skaro-rc
+Description: Archive squeeze-xivo-skaro
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze
+Suite: squeeze
+Codename: squeeze
+Architectures: i386 amd64 source
+Components: main contrib non-free
+Description: Archive squeeze
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: proformatique.com
+Label: squeeze-dev
+Suite: squeeze-dev
+Codename: squeeze-dev
+Architectures: i386 amd64 source
+Components: main contrib non-free
+Description: Archive squeeze-dev
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: wheezy
+Suite: wheezy
+Codename: wheezy
+Architectures: i386 amd64 armhf source
+Components: main contrib non-free
+Description: Archive wheezy
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: wheezy-xivo-skaro-dev
+Suite: wheezy-xivo-skaro-dev
+Codename: wheezy-xivo-skaro-dev
+Architectures: i386 amd64 armhf source
+Components: main contrib non-free
+Update: wheezy-xivo-skaro-farm-dev
+Description: Archive wheezy-xivo-skaro-dev
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: asterisk-rc
+Suite: asterisk-rc
+Codename: asterisk-rc
+Architectures: i386 source
+Components: main
+Description: Archive Asterisk release candidate
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: asterisk-old
+Suite: asterisk-old
+Codename: asterisk-old
+Architectures: i386 source
+Components: main
+Description: Archive Asterisk old stable
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
