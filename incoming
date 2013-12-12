@@ -60,3 +60,10 @@ TempDir: /tmp
 Allow: xivo-dev
 Default: xivo-dev
 Cleanup: on_deny on_error
+
+Name: wheezy-upgrade
+IncomingDir: incoming/wheezy-upgrade
+TempDir: /tmp
+Allow: wheezy-upgrade
+Default: wheezy-upgrade
+Cleanup: on_deny on_error
