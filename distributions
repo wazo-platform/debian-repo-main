@@ -129,6 +129,7 @@ Suite: xivo-five
 Codename: xivo-five
 Architectures: i386 source
 Components: main
+#Update: xivo-rc
 Description: Official XiVO Repository
 Uploaders: uploaders
 Contents: .gz
@@ -140,7 +141,7 @@ Suite: xivo-dev
 Codename: xivo-dev
 Architectures: i386 source
 Components: main
-Update: xivo-dev
+Update: wheezy-farm-dev
 Description: Dev XiVO Repository
 Uploaders: uploaders
 Contents: .gz
@@ -152,6 +153,7 @@ Suite: xivo-rc
 Codename: xivo-rc
 Architectures: i386 source
 Components: main
+Update: xivo-dev
 Description: Release Candidate XiVO Repository
 Uploaders: uploaders
 Contents: .gz
