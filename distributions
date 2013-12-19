@@ -158,14 +158,3 @@ Description: Release Candidate XiVO Repository
 Uploaders: uploaders
 Contents: .gz
 SignWith: DFB0B268
-
-Origin: xivo.fr
-Label: wheezy-upgrade
-Suite: wheezy-upgrade
-Codename: wheezy-upgrade
-Architectures: i386 source
-Components: main
-Description: Dev repository for Wheezy upgrade
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
