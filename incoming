@@ -60,3 +60,17 @@ TempDir: /tmp
 Allow: xivo-dev
 Default: xivo-dev
 Cleanup: on_deny on_error
+
+Name: xivo-rc
+IncomingDir: incoming/xivo-rc
+TempDir: /tmp
+Allow: xivo-rc
+Default: xivo-rc
+Cleanup: on_deny on_error
+
+Name: xivo-five
+IncomingDir: incoming/xivo-five
+TempDir: /tmp
+Allow: xivo-five
+Default: xivo-five
+Cleanup: on_deny on_error
