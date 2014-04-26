@@ -127,7 +127,7 @@ Origin: xivo.fr
 Label: xivo-five
 Suite: xivo-five
 Codename: xivo-five
-Architectures: i386 source
+Architectures: amd64 i386 source
 Components: main
 #Update: xivo-rc
 Description: Official XiVO Repository
@@ -139,7 +139,7 @@ Origin: xivo.fr
 Label: xivo-dev
 Suite: xivo-dev
 Codename: xivo-dev
-Architectures: i386 source
+Architectures: amd64 i386 source
 Components: main
 Update: wheezy-farm-dev
 Description: Dev XiVO Repository
@@ -151,7 +151,7 @@ Origin: xivo.fr
 Label: xivo-rc
 Suite: xivo-rc
 Codename: xivo-rc
-Architectures: i386 source
+Architectures: amd64 i386 source
 Components: main
 Update: xivo-dev
 Description: Release Candidate XiVO Repository
