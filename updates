@@ -9,7 +9,7 @@ Name: wheezy-farm-dev
 Method: http://wheezy-farm.xivo.fr/packaging-farm/skaro/gnulinux/debian
 Suite: skaro-wheezy
 Components: main
-Architectures: i386 source
+Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
 Name: squeeze-xivo-skaro
