@@ -74,3 +74,10 @@ TempDir: /tmp
 Allow: xivo-five
 Default: xivo-five
 Cleanup: on_deny on_error
+
+Name: xivo-dev-tools
+IncomingDir: incoming/xivo-dev-tools
+TempDir: /tmp
+Allow: xivo-dev-tools
+Default: xivo-dev-tools
+Cleanup: on_deny on_error

@@ -158,3 +158,14 @@ Description: Release Candidate XiVO Repository
 Uploaders: uploaders
 Contents: .gz
 SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: xivo-dev-tools
+Suite: xivo-dev-tools
+Codename: xivo-dev-tools
+Architectures: amd64 i386 source
+Components: main
+Description: Development Tools XiVO Repository
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
