@@ -105,7 +105,7 @@ Origin: xivo.fr
 Label: asterisk-rc
 Suite: asterisk-rc
 Codename: asterisk-rc
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive Asterisk release candidate
 Uploaders: uploaders
@@ -116,7 +116,7 @@ Origin: xivo.fr
 Label: asterisk-old
 Suite: asterisk-old
 Codename: asterisk-old
-Architectures: i386 source
+Architectures: i386 amd64 source
 Components: main
 Description: Archive Asterisk old stable
 Uploaders: uploaders
