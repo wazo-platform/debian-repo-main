@@ -2,3 +2,4 @@ allow * by key CF17A828
 allow * by key 32640525
 allow * by key C97A723F
 allow * by key 0AD54798
+allow distribution 'xivo-ast13' by key 6DE9CA8B
