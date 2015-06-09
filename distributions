@@ -169,3 +169,15 @@ Description: Development Tools XiVO Repository
 Uploaders: uploaders
 Contents: .gz
 SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: xivo-ast13
+Suite: xivo-ast13
+Codename: xivo-ast13
+Architectures: amd64 i386 source
+Components: main
+Update: xivo-five
+Description: Asterisk 13 version of XiVO
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
