@@ -49,7 +49,6 @@ Suite: squeeze-xivo-skaro-dev
 Codename: squeeze-xivo-skaro-dev
 Architectures: i386 source
 Components: main contrib non-free
-Update: squeeze-xivo-skaro-farm-dev
 Description: Archive squeeze-xivo-skaro-dev
 Uploaders: uploaders
 Contents: .gz
@@ -141,7 +140,6 @@ Suite: xivo-dev
 Codename: xivo-dev
 Architectures: amd64 i386 source
 Components: main
-Update: wheezy-farm-dev
 Description: Dev XiVO Repository
 Uploaders: uploaders
 Contents: .gz
