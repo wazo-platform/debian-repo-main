@@ -81,10 +81,3 @@ TempDir: /tmp
 Allow: xivo-dev-tools
 Default: xivo-dev-tools
 Cleanup: on_deny on_error
-
-Name: xivo-ast13
-IncomingDir: incoming/xivo-ast13
-TempDir: /tmp
-Allow: xivo-ast13
-Default: xivo-ast13
-Cleanup: on_deny on_error
