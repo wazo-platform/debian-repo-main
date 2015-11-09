@@ -2,3 +2,4 @@ allow * by key CF17A828
 allow * by key 32640525
 allow * by key C97A723F
 allow * by key 0AD54798
+allow distribution 'poc-token' by key 1F53F23E

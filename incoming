@@ -81,3 +81,10 @@ TempDir: /tmp
 Allow: xivo-dev-tools
 Default: xivo-dev-tools
 Cleanup: on_deny on_error
+
+Name: poc-token
+IncomingDir: incoming/poc-token
+TempDir: /tmp
+Allow: poc-token
+Default: poc-token
+Cleanup: on_deny on_error

@@ -167,3 +167,14 @@ Description: Development Tools XiVO Repository
 Uploaders: uploaders
 Contents: .gz
 SignWith: DFB0B268
+
+Origin: xivo.fr
+Label: poc-token
+Suite: poc-token
+Codename: poc-token
+Architectures: amd64 i386 source
+Components: main
+Description: POC for persistent token
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
