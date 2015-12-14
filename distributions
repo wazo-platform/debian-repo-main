@@ -101,28 +101,6 @@ Contents: .gz
 SignWith: DFB0B268
 
 Origin: xivo.fr
-Label: asterisk-rc
-Suite: asterisk-rc
-Codename: asterisk-rc
-Architectures: i386 amd64 source
-Components: main
-Description: Archive Asterisk release candidate
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: xivo.fr
-Label: asterisk-old
-Suite: asterisk-old
-Codename: asterisk-old
-Architectures: i386 amd64 source
-Components: main
-Description: Archive Asterisk old stable
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: xivo.fr
 Label: xivo-five
 Suite: xivo-five
 Codename: xivo-five

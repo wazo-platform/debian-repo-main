@@ -47,13 +47,6 @@ Allow: squeeze-xivo-skaro-dev
 Default: squeeze-xivo-skaro-dev
 Cleanup: on_deny on_error
 
-Name: asterisk-rc
-IncomingDir: incoming/asterisk-rc
-TempDir: /tmp
-Allow: asterisk-rc
-Default: asterisk-rc
-Cleanup: on_deny on_error
-
 Name: xivo-dev
 IncomingDir: incoming/xivo-dev
 TempDir: /tmp
