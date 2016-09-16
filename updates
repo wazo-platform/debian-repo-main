@@ -1,40 +1,40 @@
 Name: squeeze-xivo-skaro
-Method: http://mirror.xivo.fr/debian
+Method: http://mirror.xivo.io/debian
 Suite: squeeze-xivo-skaro
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
 Name: squeeze-xivo-skaro-rc
-Method: http://mirror.xivo.fr/debian
+Method: http://mirror.xivo.io/debian
 Suite: squeeze-xivo-skaro-rc
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
 Name: squeeze-xivo-skaro-dev
-Method: http://mirror.xivo.fr/debian
+Method: http://mirror.xivo.io/debian
 Suite: squeeze-xivo-skaro-dev
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
 Name: xivo-five
-Method: http://mirror.xivo.fr/debian
+Method: http://mirror.xivo.io/debian
 Suite: xivo-five
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
 Name: xivo-rc
-Method: http://mirror.xivo.fr/debian
+Method: http://mirror.xivo.io/debian
 Suite: xivo-rc
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
 Name: xivo-dev
-Method: http://mirror.xivo.fr/debian
+Method: http://mirror.xivo.io/debian
 Suite: xivo-dev
 Components: main
 Architectures: i386 amd64 source
