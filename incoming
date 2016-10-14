@@ -74,9 +74,3 @@ TempDir: /tmp
 Allow: xivo-dev-tools
 Default: xivo-dev-tools
 Cleanup: on_deny on_error
-
-Name: asterisk-14
-IncomingDir: incoming/asterisk-14
-TempDir: /tmp
-Default: asterisk-14
-Cleanup: on_deny on_error
