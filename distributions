@@ -145,3 +145,11 @@ Description: Development Tools XiVO Repository
 Uploaders: uploaders
 Contents: .gz
 SignWith: DFB0B268
+
+Codename: asterisk-rc
+Architectures: amd64 i386 source
+Components: main
+Description: Asterisk release candidate
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
