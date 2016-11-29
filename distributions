@@ -153,3 +153,13 @@ Description: Asterisk release candidate
 Uploaders: uploaders
 Contents: .gz
 SignWith: DFB0B268
+
+Origin: Wazo
+Codename: phoenix
+Architectures: amd64 i386 source
+Components: main
+#Update: xivo-rc
+Description: Wazo Phoenix
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268

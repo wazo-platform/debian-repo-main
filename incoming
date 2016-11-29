@@ -80,3 +80,9 @@ IncomingDir: incoming/asterisk-rc
 TempDir: /tmp
 Default: asterisk-rc
 Cleanup: on_deny on_error
+
+Name: phoenix
+IncomingDir: incoming/phoenix
+TempDir: /tmp
+Default: phoenix
+Cleanup: on_deny on_error
