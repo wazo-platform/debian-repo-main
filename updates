@@ -19,9 +19,9 @@ Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
-Name: xivo-five
+Name: xivo-dev
 Method: http://mirror.wazo.community/debian
-Suite: xivo-five
+Suite: xivo-dev
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
@@ -33,9 +33,16 @@ Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
-Name: xivo-dev
+Name: wazo-dev
 Method: http://mirror.wazo.community/debian
-Suite: xivo-dev
+Suite: wazo-dev
+Components: main
+Architectures: i386 amd64 source
+VerifyRelease: blindtrust
+
+Name: wazo-rc
+Method: http://mirror.wazo.community/debian
+Suite: wazo-rc
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
