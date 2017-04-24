@@ -155,6 +155,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-dev
+Label: wazo-dev
 Architectures: amd64 i386 source
 Components: main
 Description: Wazo Development Version
@@ -164,6 +165,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: wazo-rc
+Label: wazo-rc
 Architectures: amd64 i386 source
 Components: main
 Update: wazo-dev
@@ -174,6 +176,7 @@ SignWith: 527FBC6A
 
 Origin: Wazo
 Codename: phoenix
+Label: phoenix
 Architectures: amd64 i386 source
 Components: main
 #Update: wazo-rc
