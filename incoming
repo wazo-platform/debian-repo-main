@@ -1,17 +1,3 @@
-Name: lenny-xivo-gallifrey
-IncomingDir: incoming/lenny-xivo-gallifrey
-TempDir: /tmp
-Allow: lenny-xivo-gallifrey
-Default: lenny-xivo-gallifrey
-Cleanup: on_deny on_error
-
-Name: lenny
-IncomingDir: incoming/lenny
-TempDir: /tmp
-Allow: lenny
-Default: lenny
-Cleanup: on_deny on_error
-
 Name: squeeze
 IncomingDir: incoming/squeeze
 TempDir: /tmp

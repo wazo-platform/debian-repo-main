@@ -1,49 +1,4 @@
 Origin: proformatique.com
-Label: etch-xivo-dalek
-Suite: etch-xivo-dalek
-Codename: etch-xivo-dalek
-Architectures: i386 source
-Components: main contrib non-free
-Description: Archive etch-xivo-dalek
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: proformatique.com
-Label: etch
-Suite: etch
-Codename: etch
-Architectures: i386 source
-Components: main contrib non-free
-Description: Archive etch
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: proformatique.com
-Label: lenny-xivo-gallifrey
-Suite: lenny-xivo-gallifrey
-Codename: lenny-xivo-gallifrey
-Architectures: i386 source
-Components: main non-free
-#Update: lenny-xivo-gallifrey-rc
-Description: Archive lenny-xivo-gallifrey
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: proformatique.com
-Label: lenny
-Suite: lenny
-Codename: lenny
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive lenny
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: proformatique.com
 Label: squeeze-xivo-skaro-dev
 Suite: squeeze-xivo-skaro-dev
 Codename: squeeze-xivo-skaro-dev
