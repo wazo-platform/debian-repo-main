@@ -109,6 +109,15 @@ Contents: .gz
 SignWith: 527FBC6A
 
 Origin: Wazo
+Codename: asterisk-15
+Architectures: amd64 i386 source
+Components: main
+Description: Asterisk 15
+Uploaders: uploaders
+Contents: .gz
+SignWith: 527FBC6A
+
+Origin: Wazo
 Codename: wazo-dev
 Label: wazo-dev
 Architectures: amd64 i386 source

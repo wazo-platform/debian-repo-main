@@ -67,6 +67,12 @@ TempDir: /tmp
 Default: asterisk-rc
 Cleanup: on_deny on_error
 
+Name: asterisk-15
+IncomingDir: incoming/asterisk-15
+TempDir: /tmp
+Default: asterisk-15
+Cleanup: on_deny on_error
+
 Name: wazo-dev
 IncomingDir: incoming/wazo-dev
 TempDir: /tmp
