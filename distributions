@@ -122,6 +122,7 @@ Codename: wazo-dev
 Label: wazo-dev
 Architectures: amd64 i386 source
 Components: main
+Update: stretch-partial
 Description: Wazo Development Version
 Uploaders: uploaders
 Contents: .gz

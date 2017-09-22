@@ -1,0 +1,8 @@
+flask-babel install
+flask-restful install
+openssl install
+python-babel install
+python-pbr install
+six install
+sleekxmpp install
+stevedore install
