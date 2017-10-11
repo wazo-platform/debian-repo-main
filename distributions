@@ -151,3 +151,4 @@ Description: Wazo Phoenix
 Uploaders: uploaders
 Contents: .gz
 SignWith: 527FBC6A
+ValidFor: 50d
