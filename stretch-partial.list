@@ -4,5 +4,7 @@ openssl install
 python-babel install
 python-pbr install
 six install
-sleekxmpp install
 stevedore install
+slixmpp install
+aiodns install
+pycares install
