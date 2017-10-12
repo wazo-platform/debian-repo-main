@@ -5,6 +5,3 @@ python-babel install
 python-pbr install
 six install
 stevedore install
-slixmpp install
-aiodns install
-pycares install
