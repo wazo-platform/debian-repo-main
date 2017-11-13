@@ -84,3 +84,10 @@ IncomingDir: incoming/phoenix
 TempDir: /tmp
 Default: phoenix
 Cleanup: on_deny on_error
+
+Name: cabunar
+IncomingDir: incoming/cabunar
+TempDir: /tmp
+Default: cabunar
+Cleanup: on_deny on_error
+
