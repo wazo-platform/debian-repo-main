@@ -64,3 +64,12 @@ Architectures: i386 amd64 source
 # FTP master keys. See https://ftp-master.debian.org/keys.html
 VerifyRelease: 2B90D010 | F66AEC98
 FilterSrcList: deinstall jessie-partial.list
+
+Name: jessie-security
+Method: http://security.debian.org
+Suite: jessie/updates
+Components: main
+Architectures: i386 amd64 source
+# FTP master keys and security keys. See https://ftp-master.debian.org/keys.html
+VerifyRelease: 2B90D010 | F66AEC98 | C857C906
+FilterSrcList: deinstall jessie-partial.list
