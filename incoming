@@ -91,3 +91,20 @@ TempDir: /tmp
 Default: cabunar
 Cleanup: on_deny on_error
 
+Name: wazo-dev-stretch
+IncomingDir: incoming/wazo-dev-stretch
+TempDir: /tmp
+Default: wazo-dev-stretch
+Cleanup: on_deny on_error
+
+Name: wazo-rc-stretch
+IncomingDir: incoming/wazo-rc-stretch
+TempDir: /tmp
+Default: wazo-rc-stretch
+Cleanup: on_deny on_error
+
+Name: phoenix-stretch
+IncomingDir: incoming/phoenix-stretch
+TempDir: /tmp
+Default: phoenix-stretch
+Cleanup: on_deny on_error

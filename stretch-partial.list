@@ -1,7 +1,1 @@
-flask-babel install
-flask-restful install
-openssl install
-python-babel install
-python-pbr install
-six install
-stevedore install
+postgresql-9.6 install
