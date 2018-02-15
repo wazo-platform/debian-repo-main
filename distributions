@@ -1,83 +1,3 @@
-Origin: proformatique.com
-Label: squeeze-xivo-skaro-dev
-Suite: squeeze-xivo-skaro-dev
-Codename: squeeze-xivo-skaro-dev
-Architectures: i386 source
-Components: main contrib non-free
-Description: Archive squeeze-xivo-skaro-dev
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: proformatique.com
-Label: squeeze-xivo-skaro-rc
-Suite: squeeze-xivo-skaro-rc
-Codename: squeeze-xivo-skaro-rc
-Architectures: i386 source
-Components: main contrib non-free
-Update: squeeze-xivo-skaro-dev
-Description: Archive squeeze-xivo-skaro-rc
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: proformatique.com
-Label: squeeze-xivo-skaro
-Suite: squeeze-xivo-skaro
-Codename: squeeze-xivo-skaro
-Architectures: i386 source
-Components: main contrib non-free
-#Update: squeeze-xivo-skaro-rc
-Description: Archive squeeze-xivo-skaro
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: proformatique.com
-Label: squeeze
-Suite: squeeze
-Codename: squeeze
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive squeeze
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: proformatique.com
-Label: squeeze-dev
-Suite: squeeze-dev
-Codename: squeeze-dev
-Architectures: i386 amd64 source
-Components: main contrib non-free
-Description: Archive squeeze-dev
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: xivo.io
-Label: xivo-dev
-Suite: xivo-dev
-Codename: xivo-dev
-Architectures: amd64 i386 source
-Components: main
-Description: Dev XiVO Repository
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
-Origin: xivo.io
-Label: xivo-rc
-Suite: xivo-rc
-Codename: xivo-rc
-Architectures: amd64 i386 source
-Components: main
-Update: xivo-dev
-Description: Release Candidate XiVO Repository
-Uploaders: uploaders
-Contents: .gz
-SignWith: DFB0B268
-
 Origin: xivo.io
 Label: xivo-five
 Suite: xivo-five
@@ -107,18 +27,6 @@ Description: Asterisk release candidate
 Uploaders: uploaders
 Contents: .gz
 SignWith: 527FBC6A
-
-Origin: Wazo
-Codename: wazo-dev
-Label: wazo-dev
-Architectures: amd64 i386 source
-Components: main
-Update: jessie-partial jessie-security
-Description: Wazo Development Version
-Uploaders: uploaders
-Contents: .gz
-SignWith: 527FBC6A
-ValidFor: 50d
 
 Origin: Wazo
 Codename: wazo-rc

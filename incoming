@@ -1,59 +1,3 @@
-Name: squeeze
-IncomingDir: incoming/squeeze
-TempDir: /tmp
-Allow: squeeze
-Default: squeeze
-Cleanup: on_deny on_error
-
-Name: squeeze-dev
-IncomingDir: incoming/squeeze-dev
-TempDir: /tmp
-Allow: squeeze-dev
-Default: squeeze-dev
-Cleanup: on_deny on_error
-
-Name: squeeze-xivo-skaro
-IncomingDir: incoming/squeeze-xivo-skaro
-TempDir: /tmp
-Allow: squeeze-xivo-skaro
-Default: squeeze-xivo-skaro
-Cleanup: on_deny on_error
-
-Name: squeeze-xivo-skaro-rc
-IncomingDir: incoming/squeeze-xivo-skaro-rc
-TempDir: /tmp
-Allow: squeeze-xivo-skaro-rc
-Default: squeeze-xivo-skaro-rc
-Cleanup: on_deny on_error
-
-Name: squeeze-xivo-skaro-dev
-IncomingDir: incoming/squeeze-xivo-skaro-dev
-TempDir: /tmp
-Allow: squeeze-xivo-skaro-dev
-Default: squeeze-xivo-skaro-dev
-Cleanup: on_deny on_error
-
-Name: xivo-dev
-IncomingDir: incoming/xivo-dev
-TempDir: /tmp
-Allow: xivo-dev
-Default: xivo-dev
-Cleanup: on_deny on_error
-
-Name: xivo-rc
-IncomingDir: incoming/xivo-rc
-TempDir: /tmp
-Allow: xivo-rc
-Default: xivo-rc
-Cleanup: on_deny on_error
-
-Name: xivo-five
-IncomingDir: incoming/xivo-five
-TempDir: /tmp
-Allow: xivo-five
-Default: xivo-five
-Cleanup: on_deny on_error
-
 Name: xivo-dev-tools
 IncomingDir: incoming/xivo-dev-tools
 TempDir: /tmp
@@ -65,12 +9,6 @@ Name: asterisk-rc
 IncomingDir: incoming/asterisk-rc
 TempDir: /tmp
 Default: asterisk-rc
-Cleanup: on_deny on_error
-
-Name: wazo-dev
-IncomingDir: incoming/wazo-dev
-TempDir: /tmp
-Default: wazo-dev
 Cleanup: on_deny on_error
 
 Name: wazo-rc
