@@ -10,6 +10,18 @@ Uploaders: uploaders
 Contents: .gz
 SignWith: DFB0B268
 
+Origin: xivo.io
+Label: xivo-five-backup
+Suite: xivo-five-backup
+Codename: xivo-five-backup
+Architectures: amd64 i386 source
+Components: main
+Update: xivo-five
+Description: Backup xivo-five
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
 Origin: Wazo
 Codename: xivo-dev-tools
 Architectures: amd64 i386 source

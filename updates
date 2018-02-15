@@ -1,3 +1,10 @@
+Name: xivo-five
+Method: http://mirror.wazo.community/debian
+Suite: xivo-five
+Components: main
+Architectures: i386 amd64 source
+VerifyRelease: blindtrust
+
 Name: wazo-rc
 Method: http://mirror.wazo.community/debian
 Suite: wazo-rc
