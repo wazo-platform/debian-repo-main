@@ -1,3 +1,15 @@
+Origin: wazo.community
+Label: xivo-five
+Suite: xivo-five
+Codename: xivo-five
+Architectures: amd64 i386 source
+Components: main
+Update: xivo-five-backup
+Description: xivo-five
+Uploaders: uploaders
+Contents: .gz
+SignWith: DFB0B268
+
 Origin: xivo.io
 Label: xivo-five-backup
 Suite: xivo-five-backup
