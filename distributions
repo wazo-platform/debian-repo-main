@@ -33,7 +33,7 @@ Codename: wazo-rc
 Label: wazo-rc
 Architectures: amd64 i386 source
 Components: main
-Update: wazo-dev
+# Update: wazo-dev
 Description: Wazo Release Candidate Version
 Uploaders: uploaders
 Contents: .gz
@@ -68,7 +68,7 @@ Codename: wazo-dev-stretch
 Label: wazo-dev-stretch
 Architectures: amd64 i386 source
 Components: main
-Update: wazo-dev buster-partial stretch-partial stretch-security
+Update: buster-partial stretch-partial stretch-security
 Description: Wazo Development Version
 Uploaders: uploaders
 Contents: .gz
