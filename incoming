@@ -3,46 +3,46 @@ IncomingDir: incoming/xivo-dev-tools
 TempDir: /tmp
 Allow: xivo-dev-tools
 Default: xivo-dev-tools
-Cleanup: on_deny on_error
+Cleanup: on_deny on_error unused_buildinfo_files
 
 Name: asterisk-rc
 IncomingDir: incoming/asterisk-rc
 TempDir: /tmp
 Default: asterisk-rc
-Cleanup: on_deny on_error
+Cleanup: on_deny on_error unused_buildinfo_files
 
 Name: wazo-rc
 IncomingDir: incoming/wazo-rc
 TempDir: /tmp
 Default: wazo-rc
-Cleanup: on_deny on_error
+Cleanup: on_deny on_error unused_buildinfo_files
 
 Name: phoenix
 IncomingDir: incoming/phoenix
 TempDir: /tmp
 Default: phoenix
-Cleanup: on_deny on_error
+Cleanup: on_deny on_error unused_buildinfo_files
 
 Name: cabunar
 IncomingDir: incoming/cabunar
 TempDir: /tmp
 Default: cabunar
-Cleanup: on_deny on_error
+Cleanup: on_deny on_error unused_buildinfo_files
 
 Name: wazo-dev-stretch
 IncomingDir: incoming/wazo-dev-stretch
 TempDir: /tmp
 Default: wazo-dev-stretch
-Cleanup: on_deny on_error
+Cleanup: on_deny on_error unused_buildinfo_files
 
 Name: wazo-rc-stretch
 IncomingDir: incoming/wazo-rc-stretch
 TempDir: /tmp
 Default: wazo-rc-stretch
-Cleanup: on_deny on_error
+Cleanup: on_deny on_error unused_buildinfo_files
 
 Name: phoenix-stretch
 IncomingDir: incoming/phoenix-stretch
 TempDir: /tmp
 Default: phoenix-stretch
-Cleanup: on_deny on_error
+Cleanup: on_deny on_error unused_buildinfo_files
