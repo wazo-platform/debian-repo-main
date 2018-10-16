@@ -1,7 +1,6 @@
 flask install
 jinja2 install
 more-itertools install
-python-cheroot install
 python-werkzeug install
 six install
 zc.lockfile install
