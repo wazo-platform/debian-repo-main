@@ -1,3 +1,4 @@
 flask install
 jinja2 install
 python-werkzeug install
+more-itertools install
