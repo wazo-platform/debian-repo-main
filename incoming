@@ -23,12 +23,6 @@ TempDir: /tmp
 Default: phoenix
 Cleanup: on_deny on_error unused_buildinfo_files
 
-Name: cabunar
-IncomingDir: incoming/cabunar
-TempDir: /tmp
-Default: cabunar
-Cleanup: on_deny on_error unused_buildinfo_files
-
 Name: wazo-dev-stretch
 IncomingDir: incoming/wazo-dev-stretch
 TempDir: /tmp
