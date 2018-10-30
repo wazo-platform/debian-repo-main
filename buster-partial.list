@@ -2,6 +2,5 @@ flask install
 jinja2 install
 more-itertools install
 pyasn1 install
-python-ldap install
 six install
 zc.lockfile install
