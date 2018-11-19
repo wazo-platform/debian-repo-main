@@ -87,15 +87,3 @@ Uploaders: uploaders
 Contents: .gz
 SignWith: 527FBC6A
 ValidFor: 50d
-
-Origin: Wazo
-Codename: wazo-dev-stretch-pjsip
-Label: wazo-dev-stretch-pjsip
-Architectures: amd64 i386 source
-Components: main
-Update: buster-partial stretch-partial stretch-security
-Description: Wazo Development Version using PJSIP
-Uploaders: uploaders
-Contents: .gz
-SignWith: 527FBC6A
-ValidFor: 50d

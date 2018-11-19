@@ -40,9 +40,3 @@ IncomingDir: incoming/phoenix-stretch
 TempDir: /tmp
 Default: phoenix-stretch
 Cleanup: on_deny on_error unused_buildinfo_files
-
-Name: wazo-dev-stretch-pjsip
-IncomingDir: incoming/wazo-dev-stretch-pjsip
-TempDir: /tmp
-Default: wazo-dev-stretch-pjsip
-Cleanup: on_deny on_error unused_buildinfo_files
