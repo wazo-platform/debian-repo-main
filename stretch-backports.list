@@ -1,1 +1,3 @@
+chardet install
+python-urllib3 install
 requests install
