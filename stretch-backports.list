@@ -1,3 +1,9 @@
+certbot install
 chardet install
 python-urllib3 install
+python3-acme install
+python3-certbot install
+python3-certbot-nginx install
+python3-josepy install
+python3-parsedatetime install
 requests install
