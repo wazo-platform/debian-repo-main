@@ -57,7 +57,7 @@ Codename: wazo-dev-stretch
 Label: wazo-dev-stretch
 Architectures: amd64 i386 source
 Components: main
-Update: buster-partial stretch-partial stretch-security stretch-backports
+Update: buster-partial stretch-security stretch-backports
 Description: Wazo Development Version
 Uploaders: uploaders
 Contents: .gz
