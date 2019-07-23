@@ -40,3 +40,9 @@ IncomingDir: incoming/phoenix-stretch
 TempDir: /tmp
 Default: phoenix-stretch
 Cleanup: on_deny on_error unused_buildinfo_files
+
+Name: wazo-dev-buster
+IncomingDir: incoming/wazo-dev-buster
+TempDir: /tmp
+Default: wazo-dev-buster
+Cleanup: on_deny on_error unused_buildinfo_files
