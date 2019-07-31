@@ -65,8 +65,8 @@ SignWith: 527FBC6A
 ValidFor: 50d
 
 Origin: Wazo
-Codename: wazo-dev-stretch-review
-Label: wazo-dev-stretch-review
+Codename: wazo-dev-review-stretch
+Label: wazo-dev-review-stretch
 Architectures: amd64 i386 source
 Components: main
 Update: wazo-dev-stretch
