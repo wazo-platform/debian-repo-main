@@ -29,12 +29,6 @@ TempDir: /tmp
 Default: wazo-dev-stretch
 Cleanup: on_deny on_error unused_buildinfo_files
 
-Name: wazo-dev-review-stretch
-IncomingDir: incoming/wazo-dev-review-stretch
-TempDir: /tmp
-Default: wazo-dev-review-stretch
-Cleanup: on_deny on_error unused_buildinfo_files
-
 Name: wazo-rc-stretch
 IncomingDir: incoming/wazo-rc-stretch
 TempDir: /tmp
