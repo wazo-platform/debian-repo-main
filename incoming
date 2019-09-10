@@ -46,3 +46,9 @@ IncomingDir: incoming/wazo-dev-buster
 TempDir: /tmp
 Default: wazo-dev-buster
 Cleanup: on_deny on_error unused_buildinfo_files
+
+Name: wazo-rc-buster
+IncomingDir: incoming/wazo-rc-buster
+TempDir: /tmp
+Default: wazo-rc-buster
+Cleanup: on_deny on_error unused_buildinfo_files

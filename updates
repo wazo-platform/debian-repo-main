@@ -43,3 +43,10 @@ Suite: wazo-dev-buster
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
+
+Name: wazo-rc-buster
+Method: http://mirror.wazo.community/debian
+Suite: wazo-rc-buster
+Components: main
+Architectures: i386 amd64 source
+VerifyRelease: blindtrust
