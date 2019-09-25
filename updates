@@ -28,6 +28,13 @@ Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
 
+Name: phoenix-stretch
+Method: http://mirror.wazo.community/debian
+Suite: phoenix-stretch
+Components: main
+Architectures: i386 amd64 source
+VerifyRelease: blindtrust
+
 Name: buster-partial
 Method: http://ftp.ca.debian.org/debian
 Suite: buster
