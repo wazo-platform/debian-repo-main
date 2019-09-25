@@ -81,7 +81,7 @@ Codename: phoenix-stretch
 Label: phoenix-stretch
 Architectures: amd64 i386 source
 Components: main
-#Update: - wazo-rc-stretch
+Update: - pelican-stretch
 Description: Wazo Phoenix
 Uploaders: uploaders
 Contents: .gz
