@@ -1,0 +1,1 @@
+* * * * * root /usr/bin/reprepro --silent --silent -b /data/reprepro/xivo --waitforlock 10 --noskipold update phoenix-stretch
