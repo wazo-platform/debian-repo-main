@@ -44,6 +44,14 @@ Architectures: i386 amd64 source
 VerifyRelease: 2B90D010 | F66AEC98
 FilterSrcList: deinstall buster-partial.list
 
+Name: kamailio-buster
+Method: http://deb.kamailio.org/kamailio53
+Suite: buster
+Components: main
+Architectures: i386 amd64 source
+VerifyRelease: 508EA4C8
+FilterSrcList: deinstall kamailio-buster.list
+
 Name: wazo-dev-buster
 Method: http://mirror.wazo.community/debian
 Suite: wazo-dev-buster
