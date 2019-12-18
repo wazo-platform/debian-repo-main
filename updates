@@ -50,7 +50,7 @@ Suite: buster-backports
 Components: main
 Architectures: i386 amd64 source
 # Debian Buster release key. See https://ftp-master.debian.org/keys.html
-VerifyRelease: 3CBBABEE
+VerifyRelease: 3CBBABEE+
 FilterSrcList: deinstall buster-backports.list
 
 Name: kamailio-buster
