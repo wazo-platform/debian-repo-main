@@ -44,6 +44,15 @@ Architectures: i386 amd64 source
 VerifyRelease: 2B90D010 | F66AEC98
 FilterSrcList: deinstall buster-partial.list
 
+Name: buster-backports
+Method: http://ftp.ca.debian.org/debian
+Suite: buster-backports
+Components: main
+Architectures: i386 amd64 source
+# Debian Buster release key. See https://ftp-master.debian.org/keys.html
+VerifyRelease: 3CBBABEE
+FilterSrcList: deinstall buster-backports.list
+
 Name: kamailio-buster
 Method: http://deb.kamailio.org/kamailio53
 Suite: buster
