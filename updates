@@ -74,3 +74,12 @@ Suite: wazo-rc-buster
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
+
+Name: bullseye-partial
+Method: http://ftp.ca.debian.org/debian
+Suite: bullseye
+Components: main
+Architectures: i386 amd64 source
+# FTP master keys. See https://ftp-master.debian.org/keys.html
+VerifyRelease: 3CBBABEE
+FilterSrcList: deinstall bullseye-partial.list

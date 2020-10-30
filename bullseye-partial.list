@@ -1,0 +1,4 @@
+billiard install
+celery install
+kombu install
+python-future install
