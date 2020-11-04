@@ -1,3 +1,2 @@
 billiard install
-celery install
 python-future install
