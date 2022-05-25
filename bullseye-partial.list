@@ -1,2 +1,3 @@
 billiard install
 python-future install
+python3-gunicorn install
