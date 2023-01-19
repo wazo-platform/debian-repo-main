@@ -52,3 +52,9 @@ IncomingDir: incoming/wazo-rc-buster
 TempDir: /tmp
 Default: wazo-rc-buster
 Cleanup: on_deny on_error unused_buildinfo_files
+
+Name: wazo-dev-wip-bullseye
+IncomingDir: incoming/wazo-dev-wip-bullseye
+TempDir: /tmp
+Default: wazo-dev-wip-bullseye
+Cleanup: on_deny on_error unused_buildinfo_files
