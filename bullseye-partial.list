@@ -3,6 +3,5 @@ fastapi install
 gunicorn install
 pydantic install
 python-future install
-python-typing-extensions install
 python-uvicorn install
 starlette install

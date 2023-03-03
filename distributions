@@ -129,7 +129,7 @@ Codename: wazo-dev-buster
 Label: wazo-dev-buster
 Architectures: amd64 i386 source
 Components: main
-Update: bullseye-partial buster-backports wazo-celery-buster
+Update: bookworm-partial bullseye-partial buster-backports wazo-celery-buster
 Description: Wazo Development Version
 Uploaders: uploaders
 Contents: .gz
