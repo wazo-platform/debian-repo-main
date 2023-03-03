@@ -164,7 +164,7 @@ Codename: wazo-dev-wip-bullseye
 Label: wazo-dev-wip-bullseye
 Architectures: amd64 source
 Components: main
-# Update: wazo-dev-buster
+Update: bookworm-partial
 Description: Wazo Development Bullseye Migration Version
 Uploaders: uploaders
 Contents: .gz
