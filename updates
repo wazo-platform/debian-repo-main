@@ -91,3 +91,17 @@ Suite: wazo-celery-buster
 Components: main
 Architectures: i386 amd64 source
 VerifyRelease: blindtrust
+
+Name: wazo-dev-bullseye
+Method: http://mirror.wazo.community/debian
+Suite: wazo-dev-bullseye
+Components: main
+Architectures: amd64 source
+VerifyRelease: blindtrust
+
+Name: wazo-rc-bullseye
+Method: http://mirror.wazo.community/debian
+Suite: wazo-rc-bullseye
+Components: main
+Architectures: amd64 source
+VerifyRelease: blindtrust
