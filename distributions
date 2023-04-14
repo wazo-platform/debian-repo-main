@@ -168,7 +168,7 @@ Update: bookworm-partial
 Description: Wazo Development Bullseye Migration Version
 Uploaders: uploaders
 Contents: .gz
-SignWith: 527FBC6A
+SignWith: 19121AED
 ValidFor: 50d
 
 Origin: Wazo
@@ -180,7 +180,7 @@ Components: main
 Description: Wazo Pelican
 Uploaders: uploaders
 Contents: .gz
-SignWith: 527FBC6A
+SignWith: 19121AED
 ValidFor: 50d
 
 Origin: Wazo
@@ -192,7 +192,7 @@ Update: bookworm-partial
 Description: Wazo Development Version
 Uploaders: uploaders
 Contents: .gz
-SignWith: 527FBC6A
+SignWith: 19121AED
 ValidFor: 50d
 
 Origin: Wazo
@@ -204,5 +204,5 @@ Update: - wazo-dev-bullseye
 Description: Wazo Release Candidate Version
 Uploaders: uploaders
 Contents: .gz
-SignWith: 527FBC6A
+SignWith: 19121AED
 ValidFor: 50d
