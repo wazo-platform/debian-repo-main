@@ -85,13 +85,6 @@ Architectures: i386 amd64 source
 VerifyRelease: B7D453EC | 22F3D138
 FilterSrcList: deinstall bookworm-partial.list
 
-Name: wazo-celery-buster
-Method: http://mirror.wazo.community/debian
-Suite: wazo-celery-buster
-Components: main
-Architectures: i386 amd64 source
-VerifyRelease: blindtrust
-
 Name: wazo-dev-bullseye
 Method: http://mirror.wazo.community/debian
 Suite: wazo-dev-bullseye
