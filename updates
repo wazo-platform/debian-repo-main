@@ -73,7 +73,7 @@ Suite: bullseye
 Components: main
 Architectures: i386 amd64 source
 # FTP master keys. See https://ftp-master.debian.org/keys.html
-VerifyRelease: B7D453EC | 22F3D138
+VerifyRelease: 0D6C9793+
 FilterSrcList: deinstall bullseye-partial.list
 
 Name: bookworm-partial
@@ -82,7 +82,7 @@ Suite: bookworm
 Components: main
 Architectures: i386 amd64 source
 # FTP master keys. See https://ftp-master.debian.org/keys.html
-VerifyRelease: 8783D481 | 350947F8
+VerifyRelease: 8783D481+
 FilterSrcList: deinstall bookworm-partial.list
 
 Name: wazo-dev-bullseye
