@@ -76,6 +76,15 @@ Architectures: i386 amd64 source
 VerifyRelease: 0D6C9793+
 FilterSrcList: deinstall bullseye-partial.list
 
+Name: bullseye-backports
+Method: http://ftp.ca.debian.org/debian
+Suite: bullseye-backports
+Components: main
+Architectures: i386 amd64 source
+# Debian Bullseye release key. See https://ftp-master.debian.org/keys.html
+VerifyRelease: 0D6C9793+
+FilterSrcList: deinstall bullseye-backports.list
+
 Name: bookworm-partial
 Method: http://ftp.ca.debian.org/debian
 Suite: bookworm
