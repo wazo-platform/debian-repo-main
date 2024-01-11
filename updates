@@ -98,3 +98,11 @@ Suite: wazo-rc-bullseye
 Components: main
 Architectures: amd64 source
 VerifyRelease: blindtrust
+
+Name: wazo-dev-bullseye-partial-tools
+Method: http://mirror.wazo.community/debian
+Suite: wazo-dev-bullseye
+Components: main
+Architectures: amd64 source
+VerifyRelease: blindtrust
+FilterSrcList: deinstall wazo-dev-bullseye-partial-tools.list
