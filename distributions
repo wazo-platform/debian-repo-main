@@ -166,7 +166,7 @@ Codename: wazo-dev-bullseye
 Label: wazo-dev-bullseye
 Architectures: amd64 source
 Components: main
-Update: bookworm-partial
+Update: bullseye-backports bookworm-partial
 Description: Wazo Development Version
 Uploaders: uploaders
 Contents: .gz
