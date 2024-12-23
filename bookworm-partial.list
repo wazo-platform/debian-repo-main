@@ -1,4 +1,5 @@
 jaraco.classes install
+jaraco.collections install
 jaraco.context install
 jaraco.text install
 python-autocommand install
