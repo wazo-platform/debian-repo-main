@@ -3,6 +3,7 @@ jaraco.collections install
 jaraco.context install
 jaraco.text install
 python-autocommand install
+python-cheroot install
 python-jaraco.functools install
 python-typing-extensions install
 stevedore install
