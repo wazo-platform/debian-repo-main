@@ -1,3 +1,4 @@
+jaraco.classes install
 jaraco.context install
 python-autocommand install
 python-typing-extensions install
