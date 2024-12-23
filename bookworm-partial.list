@@ -1,5 +1,6 @@
 jaraco.classes install
 jaraco.context install
 python-autocommand install
+python-jaraco.functools install
 python-typing-extensions install
 stevedore install
