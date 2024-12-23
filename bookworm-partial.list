@@ -1,3 +1,4 @@
+cherrypy3
 jaraco.classes install
 jaraco.collections install
 jaraco.context install
