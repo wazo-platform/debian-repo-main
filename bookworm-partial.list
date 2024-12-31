@@ -6,5 +6,6 @@ jaraco.text install
 python-autocommand install
 python-cheroot install
 python-jaraco.functools install
+python-marshmallow install
 python-typing-extensions install
 stevedore install
