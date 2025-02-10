@@ -4,6 +4,7 @@ jaraco.collections install
 jaraco.context install
 jaraco.text install
 python-autocommand install
+python-cachetools install
 python-cheroot install
 python-jaraco.functools install
 python-marshmallow install
