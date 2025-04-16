@@ -5,6 +5,13 @@ Allow: xivo-dev-tools
 Default: xivo-dev-tools
 Cleanup: on_deny on_error unused_buildinfo_files
 
+Name: wazo-dev-tools
+IncomingDir: incoming/wazo-dev-tools
+TempDir: /tmp
+Allow: wazo-dev-tools
+Default: wazo-dev-tools
+Cleanup: on_deny on_error unused_buildinfo_files
+
 Name: asterisk-rc
 IncomingDir: incoming/asterisk-rc
 TempDir: /tmp
