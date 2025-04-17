@@ -11,16 +11,6 @@ Contents: .gz
 SignWith: DFB0B268
 
 Origin: Wazo
-Codename: xivo-dev-tools
-Architectures: amd64 i386 source
-Components: main
-Description: Development Tools Repository
-Uploaders: uploaders
-Contents: .gz
-SignWith: 527FBC6A
-Update: wazo-dev-bullseye-partial-tools
-
-Origin: Wazo
 Codename: wazo-dev-tools
 Architectures: amd64 source
 Components: main
