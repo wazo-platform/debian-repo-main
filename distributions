@@ -17,7 +17,7 @@ Components: main
 Description: Development Tools Repository
 Uploaders: uploaders
 Contents: .gz
-SignWith: 527FBC6A
+SignWith: 19121AED
 Update: wazo-dev-bullseye-partial-tools
 
 Origin: Wazo
@@ -27,7 +27,7 @@ Components: main
 Description: Asterisk release candidate
 Uploaders: uploaders
 Contents: .gz
-SignWith: 527FBC6A
+SignWith: 19121AED
 
 Origin: Wazo
 Codename: wazo-rc
