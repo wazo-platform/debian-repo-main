@@ -84,7 +84,7 @@ VerifyRelease: 0D6C9793+
 FilterSrcList: deinstall bullseye-partial.list
 
 Name: bullseye-backports
-Method: http://ftp.ca.debian.org/debian
+Method: http://archive.debian.org/debian
 Suite: bullseye-backports
 Components: main
 Architectures: i386 amd64 source
