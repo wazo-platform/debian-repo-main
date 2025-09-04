@@ -122,3 +122,17 @@ Components: main
 Architectures: amd64 source
 VerifyRelease: blindtrust
 FilterSrcList: deinstall wazo-dev-bullseye-partial-tools.list
+
+Name: wazo-dev-bookworm
+Method: http://mirror.wazo.community/debian
+Suite: wazo-dev-bookworm
+Components: main
+Architectures: amd64 source
+VerifyRelease: blindtrust
+
+Name: wazo-rc-bookworm
+Method: http://mirror.wazo.community/debian
+Suite: wazo-rc-bookworm
+Components: main
+Architectures: amd64 source
+VerifyRelease: blindtrust
