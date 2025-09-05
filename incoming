@@ -64,3 +64,15 @@ IncomingDir: incoming/wazo-rc-bullseye
 TempDir: /tmp
 Default: wazo-rc-bullseye
 Cleanup: on_deny on_error unused_buildinfo_files
+
+Name: wazo-dev-bookworm
+IncomingDir: incoming/wazo-dev-bookworm
+TempDir: /tmp
+Default: wazo-dev-bookworm
+Cleanup: on_deny on_error unused_buildinfo_files
+
+Name: wazo-rc-bookworm
+IncomingDir: incoming/wazo-rc-bookworm
+TempDir: /tmp
+Default: wazo-rc-bookworm
+Cleanup: on_deny on_error unused_buildinfo_files
