@@ -101,6 +101,15 @@ Architectures: i386 amd64 source
 VerifyRelease: 8783D481+
 FilterSrcList: deinstall bookworm-partial.list
 
+Name: trixie-partial
+Method: http://ftp.ca.debian.org/debian
+Suite: trixie
+Components: main
+Architectures: i386 amd64 source
+# FTP master keys. See https://ftp-master.debian.org/keys.html
+VerifyRelease: B2C39DE4+
+FilterSrcList: deinstall trixie-partial.list
+
 Name: wazo-dev-bullseye
 Method: http://mirror.wazo.community/debian
 Suite: wazo-dev-bullseye
