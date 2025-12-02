@@ -1,2 +1,5 @@
+graphql-core install
+graphql-relay install
+python-graphene install
 python-looseversion install
 websocket-client install
