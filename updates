@@ -92,6 +92,15 @@ Architectures: i386 amd64 source
 VerifyRelease: 386FA1D9 | 2643E131
 FilterSrcList: deinstall bullseye-backports.list
 
+Name: bookworm-backports
+Method: http://archive.debian.org/debian
+Suite: bookworm-backports
+Components: main
+Architectures: i386 amd64 source
+# FTP master keys. See https://ftp-master.debian.org/keys.html
+VerifyRelease: 2643E131
+FilterSrcList: deinstall bookworm-backports.list
+
 Name: bookworm-partial
 Method: http://ftp.ca.debian.org/debian
 Suite: bookworm
