@@ -93,7 +93,7 @@ VerifyRelease: 386FA1D9 | 2643E131
 FilterSrcList: deinstall bullseye-backports.list
 
 Name: bookworm-backports
-Method: http://archive.debian.org/debian
+Method: http://ftp.ca.debian.org/debian
 Suite: bookworm-backports
 Components: main
 Architectures: i386 amd64 source
